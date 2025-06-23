@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Open Tools</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="how_was_the_service">How was the service? (%s%%)</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="tip_amount">Tip: %s</string>
+    <string name="total_amount">Total: %s</string>
+    <string name="split">Split (%s)</string>
+    <string name="camera">Camera (Disabled)</string>
+    <string name="tipper">Tipper</string>
+    <string name="coming_soon_info">There will be more tools coming soon!</string>
+</resources>
