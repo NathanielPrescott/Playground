@@ -1,2 +1,2 @@
 # Playground
-A monolithic repo for testing multiple different project ideas.
+Monolithic repository for exploring technologies.
